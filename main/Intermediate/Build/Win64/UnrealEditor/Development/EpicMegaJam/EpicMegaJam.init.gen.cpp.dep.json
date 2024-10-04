@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\wynek\\perforce\\hpdang_dragon_lair_9369\\main\\intermediate\\build\\win64\\unrealeditor\\inc\\epicmegajam\\uht\\epicmegajam.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\wynek\\perforce\\hpdang_dragon_lair_9369\\main\\intermediate\\build\\win64\\epicmegajameditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\wynek\\perforce\\hpdang_dragon_lair_9369\\main\\intermediate\\build\\win64\\unrealeditor\\development\\epicmegajam\\definitions.epicmegajam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

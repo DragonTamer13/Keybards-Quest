@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EpicMegaJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\EpicMegaJamEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJam.init.gen.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJamCharacter.gen.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJamGameMode.gen.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJam.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJamCharacter.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\EpicMegaJamGameMode.cpp.obj"
+"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\Default.rc2.res"
+/OUT:"C:\Users\wynek\Perforce\hpdang_Dragon_Lair_9369\main\Intermediate\Build\Win64\UnrealEditor\Development\EpicMegaJam\UnrealEditor-EpicMegaJam.lib"

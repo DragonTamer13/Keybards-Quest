@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EpicMegaJam",
+			"Path": "C:\\Users\\wynek\\Perforce\\hpdang_Dragon_Lair_9369\\main\\Source\\EpicMegaJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EpicMegaJamEditor",
+			"Path": "C:\\Users\\wynek\\Perforce\\hpdang_Dragon_Lair_9369\\main\\Source\\EpicMegaJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
